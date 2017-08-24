@@ -1,0 +1,26 @@
+{
+  "name": "electron-ping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/electron ."
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-z-cheng/electron-ping.git"
+  },
+  "author": "John Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/john-z-cheng/electron-ping/issues"
+  },
+  "homepage": "https://github.com/john-z-cheng/electron-ping#readme",
+  "devDependencies": {
+    "electron": "^1.7.5",
+    "standard": "^10.0.3"
+  }
+  
+}
